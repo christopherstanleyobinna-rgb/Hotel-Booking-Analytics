@@ -13,7 +13,7 @@ This project analyzes hotel booking data to uncover insights into customer behav
 - Generate actionable business recommendations.
 
 # Tools Used
-![](sql.jpg)
+![](https://github.com/christopherstanleyobinna-rgb/Hotel-Booking-Analytics/blob/main/sql%20.jpg)
 
 - MySQL – Data Cleaning, Transformation, and Modeling
 - Power BI – Dashboard Development and Data Visualization
